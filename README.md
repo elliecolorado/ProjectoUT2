@@ -1,1 +1,2 @@
-# ProjectoUT2
+# ProjectoUT
+Pequeño proyecto grupal de aplicación con imágenes inspirada en Instagram
